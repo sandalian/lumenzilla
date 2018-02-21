@@ -16,6 +16,6 @@ __Suitable Parts__
 - Ø 20mm MPCB
 - Ø 17mm LED drivers (perhaps need a little sanding) 
 
-It can accomodate optics with 7mm height and drivers with maximum 9mm heights (including components).
+It can accomodate drivers with maximum 9mm heights (including components).
 
 __Download:__ [p60-drop-ins-measurement.pdf](https://github.com/sandalian/lumenzilla/blob/master/p60-drop-ins-measurement.pdf)
